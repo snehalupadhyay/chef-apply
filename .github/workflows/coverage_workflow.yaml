@@ -17,5 +17,3 @@ jobs:
     steps:
       - name: "Do nothing. Only trigger corresponding workflow_run event"
         run: echo
-
-
